@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://defalaqapelo.pages.dev/sitemap.xml
